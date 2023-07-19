@@ -2,5 +2,5 @@
 
 • Increasing and decreasing numbers in different colors using simple javascript techniques
 
-##Screen
+## Screen
 ![](screen.gif)
